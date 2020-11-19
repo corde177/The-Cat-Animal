@@ -12,8 +12,8 @@
 
 ## Lista de tarefas a cumprir:
 
-[x]Criar a página Principal 
-[]Estilisar a página
+.[x]Criar a página Principal 
+.[]Estilisar a página
 []Criar interações dentro da página
 []Tratamento do banco de dados
 []Hospedar
